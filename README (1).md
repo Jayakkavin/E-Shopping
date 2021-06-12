@@ -15,11 +15,11 @@ Features :
 
 Hardware Requirements :
 	
-	-> Proccessor 		    : 	 Pentium 4 or Later
-	-> Memory    		    :	 2 GB minimum - 4 GB maximum
-	-> Screen Resolution 	    :	 1280x1024 or larger
+	-> Proccessor 		     : 	 Pentium 4 or Later
+	-> Memory    		     :	 2 GB minimum - 4 GB maximum
+	-> Screen Resolution 	     :	 1280x1024 or larger
 	-> Application Windows Size  :	 1024x680 or larger
-	-> Internet connection 	    :	 Required
+	-> Internet connection 	     :	 Required
 
 Software Requirements :
 
